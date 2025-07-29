@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DaftDatabase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DaftDatabase_jar</output-path>
+    <root id="archive" name="DaftDatabase.jar">
+      <element id="module-output" name="DaftDatabase" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.28" />
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+    </root>
+  </artifact>
+</component>
